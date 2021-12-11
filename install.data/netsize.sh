@@ -16,5 +16,6 @@ tengas un Windows de 32 o 64 bits (si no sabes qué versión tienes, escoge la d
 - Octave-Forge incorpora versiones anteriores, por si dispones de muy poco espacio. Puedes descargar Octave 3.2.0 (45 Mb) u Octave 3.6.4 (68 Mb), aunque estas versiones no
 incluyen un entorno con ventanas.
 - También tienes una wiki que detalla otras posibilidades, y un video-tutorial que describe la instalación de Octave (y del paquete symbolic) en Windows.
-
+###Linux
+<https://images.vexels.com/media/users/3/140692/isolated/preview/72d1f12edf758d24f5b6db73bac4f297-logo-de-linux.png>
 :+1:
