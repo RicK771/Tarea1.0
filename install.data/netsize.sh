@@ -18,4 +18,7 @@ incluyen un entorno con ventanas.
 - También tienes una wiki que detalla otras posibilidades, y un video-tutorial que describe la instalación de Octave (y del paquete symbolic) en Windows.
 ###Linux
 <https://images.vexels.com/media/users/3/140692/isolated/preview/72d1f12edf758d24f5b6db73bac4f297-logo-de-linux.png>
+- Octave fue desarrollado originalmente para Linux y muchas distribuciones lo incluyen, aunque conviene asegurarse de que la versión es reciente. Aquí un video tutorial:
+<https://www.youtube.com/watch?v=e526jUTvaXU&ab_channel=AddictiveTipsTV>
+- Octave UPM incorpora la versión 3.6.2 en un entorno con ventanas.
 :+1:
