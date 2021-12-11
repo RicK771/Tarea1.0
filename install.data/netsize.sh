@@ -21,4 +21,13 @@ incluyen un entorno con ventanas.
 - Octave fue desarrollado originalmente para Linux y muchas distribuciones lo incluyen, aunque conviene asegurarse de que la versión es reciente. Aquí un video tutorial:
 <https://www.youtube.com/watch?v=e526jUTvaXU&ab_channel=AddictiveTipsTV>
 - Octave UPM incorpora la versión 3.6.2 en un entorno con ventanas.
+###Android
+- Termux es un emulador de terminal tipo Linux para Android. Descarga e instala esta aplicación desde F-Droid o desde Google Play (con la versión de Google Play el acceso al 
+dispositivo está más protegido, pero no recibe actualizaciones). Para instalar Octave ejecuta en Termux sucesivamente los comandos, aceptando todo:
+	pkg install wget
+	wget https://its-pointless.github.io/setup-pointless-repo.sh
+	sh setup-pointless-repo.sh
+	apt install octave
+<https://sites.google.com/site/manuelmuinhospan/_/rsrc/1619105490344/instalar-octave/Termux.jpg?width=25%25>
+
 :+1:
