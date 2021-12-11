@@ -7,6 +7,10 @@ Tienes más información sobre Octave en su web, incluyendo su manual en HTML y 
 Para más información puede revisa r estos links:
  - <https://sites.google.com/site/manuelmuinhospan/weboctave>
  - <https://www.gnu.org/software/octave/download>
+###Windows
+<https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_windows_simples.svg/1200px-Logo_windows_simples.svg.png>
+- GNU Octave incorpora la versión 6.3.0 y es la opción más recomendable. Descarga octave-6.3.0-w32-installer.exe (319 Mb) u octave-6.3.0-w64-installer.exe (325 Mb),
+tengas un Windows de 32 o 64 bits (si no sabes qué versión tienes, escoge la de 32), y ejecuta el archivo para instalar el programa.
 
 :+1:
 :v:
