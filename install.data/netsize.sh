@@ -1,4 +1,4 @@
-#TAREA 1 BIONFORMATICA
+#TAREA 1 BIONFORMATICA - EJERCICIO 1.10.3
 ##Requerimentos
   - Instalar un preograma que nos sea uti para realizar el ejercicio
    - Definimos la ruta:
