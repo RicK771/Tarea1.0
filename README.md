@@ -19,3 +19,6 @@ Saavedra y Stouffer (2013) estudiaron varias redes planta-polinizador. Estos se 
                 ../data/Saavedra2013/n13.txt 61 17
                               
 3. Los resultados se encuentran en la carpeta Tarea1.0
+
+## Gracias por su Visita
+# :wave:
