@@ -11,9 +11,9 @@ cat n1.txt
   Se obtiene el resultado producto del código:
     ###El ńumero de columnas es:
       80
+    ###El ńumero de filas es:
+      97 n1.txt
+"Fin de la ejecicion P1"
 
 
-
-
-###Esperamos esta informacion te sea util..!!
 :+1:
