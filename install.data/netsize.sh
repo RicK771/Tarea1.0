@@ -8,5 +8,11 @@
 cat n1.txt
   Se imprime el contenido del subdirectorio savedra:
   echo "El ńumero de columnas es:" ; head -n1 n1.txt | grep -o " " | wc -l ; echo "El numero de filas es:" ; wc -l n1.txt; echo "Fin de la ejecucion"
+  Se obtiene el resultado producto del código:
+
+
+
+
+
 ###Esperamos esta informacion te sea util..!!
 :+1:
