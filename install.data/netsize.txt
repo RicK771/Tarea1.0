@@ -1,2 +1,7 @@
 #Resultados
 ##Al trabajar en Git Bash y nano los resultados se presentan a continuación
+  ###Número de columnas es: 
+        80
+  ###Número de filas es: 
+        97 n1.txt
+###Fin de la ejecución
