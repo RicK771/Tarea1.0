@@ -2,5 +2,7 @@
     ###continuación:
 ###Para la ejecucion de esta seccion se hace uso del directorio  de README.md
     - Elejimos la ruta del repositorio
+        cd Saavedra2013
+        
 :+1:
 :v:
