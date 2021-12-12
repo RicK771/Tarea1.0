@@ -8,5 +8,10 @@ Saavedra y Stouffer (2013) estudiaron varias redes planta-polinizador. Estos se 
                 Filename: ../data/Saavedra2013/n1.txt
                 Number of rows: 97
                 Number of columns: 80
-
+2. Escriba un guión que imprima el número de filas y columnas para cada red:
+                $ bash netsize_all.sh
+                ../data/Saavedra2013/n10.txt 14 20
+                ../data/Saavedra2013/n11.txt 270 91
+                ../data/Saavedra2013/n12.txt 7 72
+                ../data/Saavedra2013/n13.txt 61 17
                 
