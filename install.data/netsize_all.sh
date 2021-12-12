@@ -6,6 +6,6 @@
 ###Hacemos uso del código dado en clases, el cual es:
 El código nos ayudará a buscar en un docmento los archivos y contar las filas y columnas
 for file in $(ls *.txt); do wc -l $file; head -n1 $file | grep -o " " | wc -l; done
-    
-:+1:
+        ###Los resultados se presentan en netsize_all.txt (n59.txt)    
+
 :v:
