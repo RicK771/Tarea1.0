@@ -1,1 +1,2 @@
-
+#Resultados
+##Al trabajar en Git Bash y nano los resultados se presentan a continuación
